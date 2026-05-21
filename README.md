@@ -12,4 +12,5 @@ PaddleOCR是该项目的成品，里面有可以直接运行的exe文件
 实时结果显示：识别结果同步显示在界面和控制台
 绿色便携版：打包为独立 EXE 文件，无需安装环境
 
-项目运行时，可以通过Apipost等工具访问http://localhost:8888/api/ocr/text，POST方式，上传图片提取文字。
+项目运行时，可以通过Apipost等工具访问http://localhost:8888/api/ocr/text
+POST方式，上传图片提取文字。
